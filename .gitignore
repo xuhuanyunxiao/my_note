@@ -1,9 +1,13 @@
 ﻿#过滤txt文件、压缩文件 
-*.vector
+*.pdf
+*.txt
+
 
 # 过滤文件夹
 TXT/
 PDF/
+Section02_职业&职场/
+Section03_投资理财/
 
 # 跟踪文件 python、jupyter notebook  
 !*.py
